@@ -1,3 +1,5 @@
+// Make sure the files are in the right place
+
 // Install EJS in Terminal
 
 const express = require("express");
